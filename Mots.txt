@@ -1,0 +1,8 @@
+type question 1$indication 1$reponse 1
+type question 2$indication 2$reponse 2
+type question 3$indication 3$reponse 3
+type question 4$indication 4$reponse 4
+type question 5$indication 5$reponse 5
+
+
+#définition antonyme synonyme
